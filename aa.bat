@@ -1,3 +1,3 @@
 git add .
-git commit -m "1707 boj"
+git commit -m "boj"
 git push origin master
